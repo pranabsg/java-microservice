@@ -1,6 +1,7 @@
 spring-cloud-gateway-hystrix
 
 url: http://localhost:9092/order/placeOrders
+
 HTTP Method : POST
 
 JSON Request:
